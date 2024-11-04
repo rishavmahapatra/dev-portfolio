@@ -51,7 +51,7 @@ const Banner = () => {
         <div className='flex justify-center items-center gap-3 mt-5'>
           <Link
             href={
-              'https://drive.google.com/file/d/1Hfedq8p2o1MuauWQDxjBvRkXbvv2lU2E/view'
+              'https://drive.google.com/file/d/1Wa8D83iIKlTFYoSq2dZDwQHIk8vKCOS7/view?usp=sharing'
             }
             target='_blank'
             className='flex items-center justify-evenly w-32 xs:w-36 text-md border-2 border-[#3CCF91] rounded-3xl p-1 cursor-pointer hover:bg-[#3CCF91] hover:scale-105 transition-all'
