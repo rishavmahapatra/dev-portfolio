@@ -23,7 +23,7 @@ const Project = () => {
         {' '}
         I love building projects and practice my engineering skills. Here are some of my project that I&apos;ve worked on. You can check all of
         my projects by visiting My{' '}
-        <Link href={'https://github.com/shahnawaz46'}>Github</Link>.
+        <Link className=' hover:text-blue-400' href={'https://github.com/rishavmahapatra'}>Github Profile</Link>.
       </SectionParagraph>
 
       <div className='grid sm:grid-cols-2 gap-5 md:gap-7 mt-4'>

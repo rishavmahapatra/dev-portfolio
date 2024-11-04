@@ -9,10 +9,10 @@ const About = () => {
   return (
     <motion.div
       ref={ref}
-      initial={{ opacity: 0 }}
+      // initial={{ opacity: 0 }}
       // animate={{opacity: 1}}
-      whileInView={{ opacity: 1 }}
-      transition={{ duration: 0.6 }}
+      // whileInView={{ opacity: 1 }}
+      // transition={{ duration: 0.6 }}
       // viewport={{ once: true }}
       id="about"
       className="sm:mt-1 scroll-m-32 relative text-white px-3 sm:px-16 w-full h-fit flex justify-center"
@@ -32,12 +32,12 @@ const About = () => {
           fast, scalable applications, helping businesses deliver exceptional
           user experiences.
           <br /> <br />
-          I am currently working at Tata Consultancy Services (TCS). I thrive in cross-functional teams, contributing to collaborative
+          I am currently working at <span className=" text-blue-400">Tata Consultancy Services (TCS)</span>. I thrive in cross-functional teams, contributing to collaborative
           problem-solving in Agile environments. I actively
           keep up with the latest web technologies and frameworks, staying ahead
-          of industry trends and best practices. <br />  <br /> 🎓 Educational
-          Background- <br /><br />I hold a Bachelor of Technology (B. Tech) degree in
-          Information Technology from SRM University-Chennai, where I cultivated
+          of industry trends and best practices. <br />  <br /> 🎓<span className="text-green-400 font-medium"> Educational
+          Background -</span> <br /><br />I hold a Bachelor of Technology (B. Tech) degree in
+          Information Technology from SRM University - Chennai, where I cultivated
           a strong foundation in computer science, problem-solving, and software
           development methodologies.
         </p>

@@ -60,8 +60,9 @@ export const projectDetails = [
     stack: [
       { id: 1, name: "React.js" },
       { id: 2, name: "Jira-API" },
-      { id: 3, name: "Generative-AI" },
-      { id: 4, name: "Docker" },
+      { id: 3, name: "Tailwind CSS" },
+      { id: 4, name: "Generative-AI" },
+      { id: 5, name: "Docker" },
     ],
     about:
       "Developed a web application that integrates with the Jira API, allowing users to input their API key and story ID to automatically generate editable sub-tasks and time estimates using Generative AI, streamlining the Agile workflow and reducing manual effort.",
@@ -76,7 +77,7 @@ export const projectDetails = [
       { id: 2, name: "Google API" },
       { id: 3, name: "JWT tokens" },
       { id: 4, name: "Shadcn UI" },
-      // { id: 5, name: "Razor" },
+      { id: 5, name: "Tailwind CSS" },
     ],
     about:
       "Developed the front-end of a web application that conducts mock interviews based on user-uploaded resumes and job descriptions, providing tailored feedback on required skills. Implemented secure authentication and authorization using JWT tokens, ensuring user verification and session management for a seamless and protected user experience.",
