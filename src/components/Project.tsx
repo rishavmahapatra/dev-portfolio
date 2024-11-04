@@ -21,8 +21,7 @@ const Project = () => {
       <SectionHeading>Projects</SectionHeading>
       <SectionParagraph>
         {' '}
-        I love building projects and practice my engineering skills, here&apos;s
-        are some of my project that I&apos;ve worked on and you can check all of
+        I love building projects and practice my engineering skills. Here are some of my project that I&apos;ve worked on. You can check all of
         my projects by visiting My{' '}
         <Link href={'https://github.com/shahnawaz46'}>Github</Link>.
       </SectionParagraph>
