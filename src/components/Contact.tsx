@@ -21,7 +21,7 @@ const Contact = () => {
     >
       <SectionHeading>Keep In Touch</SectionHeading>
       <SectionParagraph>
-      I'm always open to discussing exciting opportunities in front-end development, whether it's <br className='hidden sm:block' /> collaborating on innovative projects or joining a team to tackle new challenges.
+      I&apos;m always open to discussing exciting opportunities in front-end development, whether it&apos;s <br className='hidden sm:block' /> collaborating on innovative projects or joining a team to tackle new challenges.
          <br className='hidden sm:block' />  Let's connect and explore how I can help bring your next idea to life.
       </SectionParagraph>
       <div className='flex items-center justify-center flex-wrap gap-3 mb-16 md:gap-4 mt-8'>
