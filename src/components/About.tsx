@@ -35,8 +35,8 @@ const About = () => {
           I am currently working at <span className=" text-blue-400">Tata Consultancy Services (TCS)</span>. I thrive in cross-functional teams, contributing to collaborative
           problem-solving in Agile environments. I actively
           keep up with the latest web technologies and frameworks, staying ahead
-          of industry trends and best practices. <br />  <br /> 🎓<span className="text-green-400 font-medium"> Educational
-          Background -</span> <br /><br />I hold a Bachelor of Technology (B. Tech) degree in
+          of industry trends and best practices. <br />  <br /> 🎓<span className="text-green-400 font-medium leading-10"> Educational
+          Background -</span> <br/>I hold a Bachelor of Technology (B. Tech) degree in
           Information Technology from SRM University - Chennai, where I cultivated
           a strong foundation in computer science, problem-solving, and software
           development methodologies.
